@@ -9,7 +9,7 @@ A  simple Golang library to manage your environment variables using structs.
 package main
 
 import (
-	"github.com/vdgonc/genv/genv"
+	"github.com/vdgonc/genv"
 )
 
 type Environments struct {
